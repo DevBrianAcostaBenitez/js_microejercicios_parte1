@@ -1,5 +1,5 @@
 function ex14() {
-  //cogemos el numero y vemos los divisores son comunes con un bucle for 
+  //cogemos el numero y vemos los divisores comunes con un bucle for 
     var n1 = parseInt(document.getElementById("n14-1").value);
     var n2 = parseInt(document.getElementById("n14-2").value);
     var element = document.getElementById("ex14");
