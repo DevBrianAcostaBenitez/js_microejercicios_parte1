@@ -1,5 +1,5 @@
 function ex6() {
-  //coger numeros y compararlos, de inicio el "mayor" es el primero, pero si los otros dos le superan lo sustituyen
+  //coger numeros y compararlos, de inicio, internamente el "mayor" es el primero, pero aquel que sea mayor lo reemplaza
   var n1 = parseInt(document.getElementById("n6-1").value);
   var n2 = parseInt(document.getElementById("n6-2").value);
   var n3 = parseInt(document.getElementById("n6-3").value);

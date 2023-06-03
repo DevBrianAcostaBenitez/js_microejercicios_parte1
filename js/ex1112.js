@@ -1,5 +1,5 @@
 function ex1112() {
-    //cogemos el numero y vemos si es divisible con un bucle for 
+    //cogemos el numero y vemos si es divisible  por 2, 3 ,5 o 7con un bucle for 
     var n = parseInt(document.getElementById("n1112").value);
     var element = document.getElementById("ex1112");
     var text =""

@@ -1,5 +1,5 @@
 function ex5() {
-  //coger numeros y compararlos
+  //coger numeros y compararlos para saber cual es el mayor
   var n1 = parseInt(document.getElementById("n5-1").value);
   var n2 = parseInt(document.getElementById("n5-2").value);
   var element = document.getElementById("ex5");

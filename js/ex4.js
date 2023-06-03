@@ -1,5 +1,5 @@
 function ex4() {
-    //coger numeros, sumarlos y mostrar resultado
+    //coger numeros, sumarlos y mostrar resultado de la suma de ambos numeros
     var n1 = parseInt(document.getElementById("n4-1").value);
     var n2 = parseInt(document.getElementById("n4-2").value);
     var result = n1 + n2;

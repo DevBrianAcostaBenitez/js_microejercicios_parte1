@@ -3,7 +3,7 @@ function ex2() {
       var n1 = 3;
       var n2 = 5;
       var result = n1 + n2;
-      //mostramos el resultado
+      //mostramos el resultado de 3 +5
       var element = document.getElementById("ex2");
       element.textContent = "La suma de " + n1 + " + " + n2 + " es " + result + ".";
     }

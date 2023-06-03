@@ -1,5 +1,5 @@
 function ex10() {
-  //cogemos la frase y hacemos un bucle for para ver cuantas vocales de cada hay
+  //cogemos la frase y hacemos un bucle for para ver cuantas vocales de cada una hay (osea, cuantas A hay, cuantas E hay, etc)
   var phrase = document.getElementById("frase10").value;
   var countA = 0;
   var  countE = 0;
